@@ -3,7 +3,7 @@
 ### Student Information
 * **Name:** [GABRIEL SARKODIE]
 * **Course:** [INTRODUCTION TO OBJECT ORIENTED PROGRAMMING/EL 162]
-* **Date:** June 2026
+* **Date:** 28th June 2026
 
 ---
 
